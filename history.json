@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nama": "John Doe",
+    "umur": 30,
+    "pekerjaan": "Insinyur",
+    "alamat": "Jalan ABC No. 123"
+  },
+  {
+    "id": 2,
+    "nama": "Jane Smith",
+    "umur": 25,
+    "pekerjaan": "Desainer Grafis",
+    "alamat": "Jalan XYZ No. 456"
+  },
+  {
+    "id": 3,
+    "nama": "Michael Johnson",
+    "umur": 35,
+    "pekerjaan": "Dokter",
+    "alamat": "Jalan QRS No. 789"
+  },
+  {
+    "id": 4,
+    "nama": "Emily Brown",
+    "umur": 28,
+    "pekerjaan": "Penulis",
+    "alamat": "Jalan DEF No. 321"
+  }
+]
